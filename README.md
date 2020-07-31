@@ -10,4 +10,5 @@ Travelymap is a map-based trip planner app, developed in <strong>PHP</strong> an
 <br><br><br><br><br><br><br><br><br><br><br>
 ### How to run it
 <blockquote> The beta-app only supports mobile web environment</blockquote>
-I couldn't share the code source for the company's security but try this <a href="https://www.travelymap.com/">beta app</a>. Click <img aligh=right width=20% src="https://github.com/parkyo/Travelymap/blob/master/start_button.png"/>
+I couldn't share the code source for the company's security but try this <a href="https://www.travelymap.com/">beta app</a>. 
+Click the button on the page to start <img width=20% src="https://github.com/parkyo/Travelymap/blob/master/start_button.png"/> 
