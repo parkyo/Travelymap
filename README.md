@@ -6,6 +6,7 @@ Travelymap is a map-based trip planner app, developed in <strong>PHP</strong> an
 ### Achievements
 - Attracted over 4,400 users two months after its beta-app launch
 - Won <a href="https://www.tourventure.or.kr/biz/main/view">Korean Venture Contest</a> with $30,000 funds
+- Carries over $100,000 worth value
  
 ### How to run it
 I couldn't share the code source for the company's security but try this <a href="https://www.travelymap.com/">beta app</a>. <br>
