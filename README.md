@@ -32,11 +32,20 @@ Click the below button on the link to start <img width=20% src="https://github.c
 
 ## Features
 ### Search Places
-<img width=30% src="https://github.com/parkyo/Travelymap/blob/master/search/default.png" />
+1. Default Page  <br>
 
- <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/search/search_page.png"/>   <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/search/type.png"/>   <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/search/search_result.png"/>
+<img width=30% src="https://github.com/parkyo/Travelymap/blob/master/search/default.png" /> <br>
+
+
+2. A list of recommended places when the search bar is clicked <br>
+3. The locations of search results marked on the map and the result list on the bottom <br>
+
+ <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/search/search_page.png"/>   <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/search/type.png"/>   <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/search/search_result.png"/> <br>
+
+4. Detailed info when a place is selected
 
 <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/search/place.png"/>  <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/search/more_info.png"/>  
+
 
 ### Visualize Places on Map
 <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/map/seen.png" />  <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/map/unseen.png" />
@@ -46,8 +55,7 @@ Click the below button on the link to start <img width=20% src="https://github.c
 
 ### Create and Edit Your Course For Each Day
 <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/tab/day_default.png" /> 
-<img width=30% src="https://github.com/parkyo/Travelymap/blob/master/list/not_included.png" />  <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/list/selected.png" />   <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/list/added.png" />
-<img width=30% src="https://github.com/parkyo/Travelymap/blob/master/tab/day_list.png" />
-<img width=30% src="https://github.com/parkyo/Travelymap/blob/master/tab/edit1.png" />
-<img width=30% src="https://github.com/parkyo/Travelymap/blob/master/tab/edit2.png" />
-<img width=30% src="https://github.com/parkyo/Travelymap/blob/master/tab/edit3.png" />
+
+<img width=30% src="https://github.com/parkyo/Travelymap/blob/master/list/not_included.png" />  <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/list/selected.png" />   <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/list/added.png" />  
+
+<img width=30% src="https://github.com/parkyo/Travelymap/blob/master/tab/edit1.png" />   <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/tab/edit2.png" />    <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/tab/edit3.png" />
