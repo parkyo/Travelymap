@@ -37,25 +37,36 @@ Click the below button on the link to start <img width=20% src="https://github.c
 <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/search/default.png" /> <br>
 
 
-2. A list of recommended places when the search bar is clicked <br>
-3. The locations of search results marked on the map and the result list on the bottom <br>
+2. A list of recommended places show when the search bar is clicked <br>
+3. The locations of search results are marked on the map and the result list can be scrolled horizontally on the bottom <br>
 
  <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/search/search_page.png"/>   <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/search/type.png"/>   <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/search/search_result.png"/> <br>
 
-4. Detailed info when a place is selected
+4. Selecting a place brings the place info page <br>
 
-<img width=30% src="https://github.com/parkyo/Travelymap/blob/master/search/place.png"/>  <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/search/more_info.png"/>  
+<img width=30% src="https://github.com/parkyo/Travelymap/blob/master/search/place.png"/>  <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/search/more_info.png"/>  <br>
 
 
 ### Visualize Places on Map
-<img width=30% src="https://github.com/parkyo/Travelymap/blob/master/map/seen.png" />  <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/map/unseen.png" />
+1. The place tags on the map visible and invisible with the eye icon on the righ top  <br>
+
+<img width=30% src="https://github.com/parkyo/Travelymap/blob/master/map/seen.png" />  <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/map/unseen.png" /> <br>
 
 ### Navigate Menu
-<img width=30% src="https://github.com/parkyo/Travelymap/blob/master/menu/menu.png" />
+1. Menu navigator can be opened from the left <br>
+
+<img width=30% src="https://github.com/parkyo/Travelymap/blob/master/menu/menu.png" /> <br>
 
 ### Create and Edit Your Course For Each Day
-<img width=30% src="https://github.com/parkyo/Travelymap/blob/master/tab/day_default.png" /> 
+1. Default page when nothing has been added to the day <br>
 
-<img width=30% src="https://github.com/parkyo/Travelymap/blob/master/list/not_included.png" />  <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/list/selected.png" />   <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/list/added.png" />  
+<img width=30% src="https://github.com/parkyo/Travelymap/blob/master/tab/day_default.png" />  <br>
+
+2. New places to add to the day can be selected from the interest list  <br>
+
+<img width=30% src="https://github.com/parkyo/Travelymap/blob/master/list/not_included.png" />  <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/list/selected.png" />   <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/list/added.png" />  <br>
+
+3. The list order can be changed by drag-and-drop interface <br>
+4. Places can be also deleted <br>
 
 <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/tab/edit1.png" />   <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/tab/edit2.png" />    <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/tab/edit3.png" />
