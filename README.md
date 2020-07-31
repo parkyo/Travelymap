@@ -33,10 +33,7 @@ Click the below button on the link to start <img width=20% src="https://github.c
 ## Features
 ### Search Places
 <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/search/default.png" />
-<img width=30% src="https://github.com/parkyo/Travelymap/blob/master/search/search_page.png" />
-<img width=30% src="https://github.com/parkyo/Travelymap/blob/master/search/search_result.png" />
-<img width=30% src="https://github.com/parkyo/Travelymap/blob/master/search/place.png" />
-<img width=30% src="https://github.com/parkyo/Travelymap/blob/master/search/more_info.png" />
+|<img width=30% src="https://github.com/parkyo/Travelymap/blob/master/search/search_page.png" />|<img width=30% src="https://github.com/parkyo/Travelymap/blob/master/search/search_result.png" />|<img width=30% src="https://github.com/parkyo/Travelymap/blob/master/search/place.png" />|<img width=30% src="https://github.com/parkyo/Travelymap/blob/master/search/more_info.png" />
 
 ### Visualize Places on Map
 <img width=30% src="https://github.com/parkyo/Travelymap/blob/master/map/seen.png" />
