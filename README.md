@@ -3,7 +3,7 @@
 <img align=left width=30% src="https://github.com/parkyo/Travelymap/blob/master/main.png"/>
 Travelymap is a map-based trip planner app, developed in <strong>PHP</strong> and <strong>JavaScript</strong>.
 
-### Achievement
+### Achievements
 - Attracted over 4,400 users two months after its beta-app launch
 - Won <a href="https://www.tourventure.or.kr/biz/main/view">Korean Venture Contest</a> with funds
  
