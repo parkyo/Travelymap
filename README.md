@@ -1,11 +1,10 @@
 # Travelymap
-<p>
-Web app dev for a travel tech startup, 'Travelymap'
+
 <img align=left width=30% src="https://github.com/parkyo/Travelymap/blob/master/main.png"/>
-</p>
+Web app dev for a travel tech startup, 'Travelymap'
+
 <br>
-<p>
 Try <a href="https://www.travelymap.com/">beta app</a>
-  > click '시작하기' button
-<img width=50% src="https://github.com/parkyo/Travelymap/blob/master/betapp_web.png"/>
-</p>
+<blockquote> this app only supports mobile web environment</blockquote>
+Click this button on the page
+<img width=10% src="https://github.com/parkyo/Travelymap/blob/master/start_button.png"/>
