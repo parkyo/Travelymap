@@ -1,9 +1,17 @@
 # Travelymap
 
-<img align=left width=30% src="https://github.com/parkyo/Travelymap/blob/master/main.png"/>
+<img align=right width=30% src="https://github.com/parkyo/Travelymap/blob/master/main.png"/>
 Travelymap is a map-based trip planner app, developed in <strong>PHP</strong> and <strong>JavaScript</strong>.
 
-### Role
+### User stories
+- Search information about restaurants, activities, hotels, etc including their descriptions, locations, websites, etc
+- Add new places to the data base if there is no search result
+- Add places to their 'interest list'
+- Create a travel course for each day of the trip
+- Visualize the travel course on the map
+- Generate the most convenient route of the interested places with 'Smart AI'function in the app
+
+### Team Role
 - Designed and developed a React app called Travelymap using PHP and JavaScript in Visual Studio Code environment 
    that provides map-based trip planner service 
 - Implemented ‘Drawer’, ‘Tab’, ‘Menu’, Drag-and-Drop’, and other front-end features for more efficient user experience
