@@ -1,4 +1,5 @@
 # Travelymap
+> June/2019 - September/2019
 
 <img align=right width=30% src="https://github.com/parkyo/Travelymap/blob/master/main.png"/>
 Travelymap is a React app that provides a map-based trip planner service, developed in <strong>PHP</strong> and <strong>JavaScript</strong>.
